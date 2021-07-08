@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /explore/
-title: Explore wood block prints
+title: Explore Netsuke at the Fitzwilliam
 ---
 <div class="container mb-3">
   <div class="row">

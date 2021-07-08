@@ -26,7 +26,7 @@ baseurl: "/netsuke" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FitzMuseum_UK
 github_username:  fitzwilliammuseum
-background: "" 
+background: "/images/netsuke.jpeg"
 # Build settings
 plugins:
   - jekyll-feed
