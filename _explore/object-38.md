@@ -1,11 +1,20 @@
 ---
 layout: default
-section: section 5
-objectID: O.50-2008(1).jpg
-image: /images/O.50-2008(1).jpg
+section: 5
+objectID: O.50-2008
+image: /images/large/O_50_2008.jpeg
+title: Figure of a dutchman
+priref: 187608
+order: 37
+permalink: /explore/O-50-2008
 ---
-![]({{site.baseurl}}/images/O.50-2008(1).jpg){: .img-fluid }
-Figure of a dutchman
-Under the policy called <em>sakoku</em>, in force in Japan from the 1630s until 1853, foreigners were excluded from the countr. The only exceptions were the Dutch who had a trading post near Nagasaki. They were regarded as curiosities due to their physical appearance, their clothing and their habit of keeping animals
-Given by Dr Roy Hull
+{% include /structure/netsuke-image.html %}
+{% include /structure/collection-record.html %}
 
+Figure of a dutchman
+
+Under the policy called _sakoku_, in force in Japan from the 1630s until 1853, foreigners were excluded from the country.
+
+The only exceptions were the Dutch who had a trading post near Nagasaki. They were regarded as curiosities due to their physical appearance, their clothing and their habit of keeping animals.
+
+Given by Dr Roy Hull

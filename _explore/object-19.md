@@ -1,14 +1,16 @@
 ---
 layout: default
-section: section 2
+section: 2
 objectID: O.60-2008
-image: /images/O.60-2008(1).jpg
+image: /images/large/O_60_2008.jpeg
 order: 18
 title: "A group of children playing a game of 'blind man's buff'"
 permalink: /explore/O-60-2008
-priref:
+priref: 187618
 ---
-![A group of children playing a game of 'blind man's buff]({{site.baseurl}}/images/O.60-2008(1).jpg){: .img-fluid }
+{% include /structure/netsuke-image.html %}
+{% include /structure/collection-record.html %}
+
 A group of children playing a game of 'blind man's buff' around a large screen
 
 Given by Dr Roy Hull

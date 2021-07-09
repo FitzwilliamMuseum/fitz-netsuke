@@ -1,14 +1,15 @@
 ---
 layout: default
-section: section 4
+section: 4
 objectID: O.100-2008
-image: /images/O.100-2008(1).jpg
+image: /images/large/O_100_2008.jpeg
 order: 30
-priref:
+priref: 187813
 title: Copper alloy netsuke of a sleeping karako
 permalink: /explore/O-100-2008
 ---
-![]({{site.baseurl}}/images/O.100-2008(1).jpg){: .img-fluid }
+{% include /structure/netsuke-image.html %}
+{% include /structure/collection-record.html %}
 
 Copper alloy netsuke of a sleeping _karako (Chinese boy)
 

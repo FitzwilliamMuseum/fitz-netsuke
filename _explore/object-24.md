@@ -1,15 +1,16 @@
 ---
 layout: default
-section: section 3
+section: 3
 objectID: O.310-2008
-image: /images/O.310-2008(1).jpg
+image: /images/large/O_310_2008.jpeg
 order: 23
 permalink: /explore/O-310-2008
-priref:
+priref: 190470
 title: An ebi with inlaid eyes
 ---
-![]({{site.baseurl}}/images/O.310-2008(1).jpg){: .img-fluid }
+{% include /structure/netsuke-image.html %}
+{% include /structure/collection-record.html %}
 
-An <em>ebi</em> (crayfish) with inlaid eyes
+An _ebi_ (crayfish) with inlaid eyes
 
 Given by Dr Roy Hull

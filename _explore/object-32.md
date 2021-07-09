@@ -1,15 +1,16 @@
 ---
 layout: default
-section: section 4
+section: 4
 objectID: O.103-2008
-image: /images/O.103-2008(2).jpg
+image: /images/large/O_103_2008.jpeg
 order: 31
-priref:
+priref: 187818
 permalink: /explore/O-103-2008
 title: Red lacquer manju netsuke
 ---
-![Red lacquer _manju_ netsuke]({{site.baseurl}}/images/O.103-2008(2).jpg){: .img-fluid }
+{% include /structure/netsuke-image.html %}
+{% include /structure/collection-record.html %}
 
-Red lacquer _manju_ netsuke
-Benten (one of the Seven Gods of Good Fortune) plays a stringed instrument, in the company of her pet dragon
+Red lacquer _manju_ netsuke. Benten (one of the Seven Gods of Good Fortune) plays a stringed instrument, in the company of her pet dragon
+
 Given by Dr Roy Hull

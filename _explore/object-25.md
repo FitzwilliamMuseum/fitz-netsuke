@@ -1,14 +1,15 @@
 ---
 layout: default
-section: section 3
+section: 3
 objectID: MAR.O.105-1912
-image: /images/MAR.O.105-1912(1).jpg
+image: /images/large/MAR_O_105_1912.jpeg
 order: 24
-permalink: /explore/MAR-O.105-1912
+permalink: /explore/MAR-O-105-1912
 title: A cicada with folded wings
-priref:
+priref: 201389
 ---
-![A cicada with folded wings]({{site.baseurl}}/images/MAR.O.105-1912(1).jpg){: .img-fluid }
+{% include /structure/netsuke-image.html %}
+{% include /structure/collection-record.html %}
 
 A cicada with folded wings
 

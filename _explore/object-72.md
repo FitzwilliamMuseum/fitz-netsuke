@@ -1,11 +1,16 @@
 ---
 layout: default
-section: section 8
-objectID: MAR.O.139-1912.jpg
-image: /images/MAR.O.139-1912.jpg
+section: 8
+objectID: MAR.O.139-1912
+image: /images/large/MAR_O_139_1912.jpeg
+title: Two rabbits eating loquats
+order: 71
+priref: 201428
+permalink: /explore/MAR-O-139-1912
 ---
-![]({{site.baseurl}}/images/MAR.O.139-1912.jpg){: .img-fluid }
+{% include /structure/netsuke-image.html %}
+{% include /structure/collection-record.html %}
+
 Two rabbits eating loquats
 
 Bequeathed by Charles Brinsley Marlay
-

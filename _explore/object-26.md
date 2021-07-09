@@ -1,15 +1,16 @@
 ---
 layout: default
-section: section 3
+section: 3
 objectID: O.170-2008
-image: /images/O.170-2008(1).jpg
+image: /images/large/O_170_2008.jpeg
 order: 25
 permalink: /explore/O-170-2008
 title: Roaring shishi
-priref:
+priref: 190081
 ---
-![]({{site.baseurl}}/images/O.170-2008(1).jpg){: .img-fluid }
+{% include /structure/netsuke-image.html %}
+{% include /structure/collection-record.html %}
 
-Roaring <em>shishi</em> (stylised lion), crouching with its tail raised
+Roaring _shishi_ (stylised lion), crouching with its tail raised
 
 Given by Dr Roy Hull

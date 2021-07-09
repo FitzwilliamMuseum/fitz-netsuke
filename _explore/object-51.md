@@ -1,11 +1,16 @@
 ---
 layout: default
-section: section 6
-objectID: O.49-2008(1).jpg
-image: /images/O.49-2008(1).jpg
+section: 6
+objectID: O.49-2008
+image: /images/O.49-2008%281%29.jpg
+order: 50
+title: Fisher-girl fighting an octopus
+priref: 187607
+permalink: /explore/O-49-2008
 ---
-![]({{site.baseurl}}/images/O.49-2008(1).jpg){: .img-fluid }
-<em>Manju</em> netsuke showing a fisher-girl fighting an octopus
+{% include /structure/netsuke-image.html %}
+{% include /structure/collection-record.html %}
+
+_Manju_ netsuke showing a fisher-girl fighting an octopus
 
 Bequeathed by Henry S. Reitlinger
-

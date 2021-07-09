@@ -19,6 +19,7 @@ title: Explore Netsuke at the Fitzwilliam
           <h3 class="lead mt-2">
             <a href="{{site.url}}{{site.baseurl}}{{ author.permalink }}" class="stretched-link">{{author.title}}</a>
           </h3>
+          <p class="text-info">{{author.objectID}}</p>
         </div>
       </div>
     </div>

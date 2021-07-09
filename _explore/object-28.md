@@ -1,15 +1,16 @@
 ---
 layout: default
-section: section 3
+section: 3
 objectID: O.251-2008
-image: /images/O.251-2008(1).jpg
+image: /images/large/O_251_2008.jpeg
 order: 27
 title: Seated kirin
 permalink: /explore/O-251-2008
-priref:
+priref: 190337
 ---
-![Seated Kirin]({{site.baseurl}}/images/O.251-2008(1).jpg){: .img-fluid }
+{% include /structure/netsuke-image.html %}
+{% include /structure/collection-record.html %}
 
-A <em>kirin</em> is a mythical creature whose appearance heralds good fortune
+A _kirin_ is a mythical creature whose appearance heralds good fortune
 
 Given by Dr Roy Hull

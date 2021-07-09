@@ -1,6 +1,6 @@
 ---
 layout: default
-section: section 1
+section: 1
 objectID: O.32-2008
 image: /images/large/O_32_2008.jpeg
 priref: 22388
@@ -8,7 +8,8 @@ permalink: /explore/O-32-2008
 order: 8
 title: A Tanuki sake vendor
 ---
-![A Tanuki sake vendor]({{site.baseurl}}/images/large/O_32_2008.jpeg){: .img-fluid }
+{% include /structure/netsuke-image.html %}
+{% include /structure/collection-record.html %}
 
 A _tanuki_ (sake vendor), wearing a lotus leaf hat.
 

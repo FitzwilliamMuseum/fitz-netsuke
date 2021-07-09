@@ -1,15 +1,16 @@
 ---
 layout: default
-section: section 3
+section: 3
 objectID: O.154-2008
-image: /images/O.154-2008(1).jpg
+image: /images/large/O_154_2008.jpeg
 order: 26
-priref:
+priref: 189488
 permalink: /explore/O-154-2008
 title: Seated shishi
 ---
-![]({{site.baseurl}}/images/O.154-2008(1).jpg){: .img-fluid }
+{% include /structure/netsuke-image.html %}
+{% include /structure/collection-record.html %}
 
-Seated <em>shishi</em> (stylised lion)
+Seated _shishi_ (stylised lion)
 
 Given by Dr Roy Hull
