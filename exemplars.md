@@ -1,7 +1,7 @@
 ---
 title: The Art of Netsuke at its Best
 layout: default
-permalink: /exemplars
+permalink: /exemplars/
 image: /images/thumbnails/O_76_1991.jpeg
 ---
 Japanese (as well as Chinese) Myths and legends provided carvers of netsuke with many subjects for their miniature sculptures.
