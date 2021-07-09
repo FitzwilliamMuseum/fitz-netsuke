@@ -43,6 +43,17 @@ integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeV
 <link href="{{site.baseurl}}/css/site.css" rel="stylesheet" media="screen">
 
 <link rel="icon" href="{{site.baseurl}}/favicon.ico"/>
+<style>
+.head {
+  background-image: url({{site.baseurl}}{{site.background}});
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 90%;
+}
+.parallax {
+  min-height: 75vh!important;
+}
+</style>
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin="" type="text/css">
 
@@ -63,9 +74,12 @@ integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeV
 
     <!-- Nav bars -->
     {% include /structure/navigation.html %}
-    <div class="container-fluid bg-white text-black text-center mt-5">
+
+    <div class="container-fluid head parallax">
+    </div>
+    <div class="container-fluid bg-white text-black text-center">
       <div class="py-2">
-        <h1 class="shout lead mt-3" id="doc-main-h1">{{page.title}}</h1>
+        <h1 class="shout lead" id="doc-main-h1">{{page.title}}</h1>
       </div>
     </div>
 
@@ -79,8 +93,6 @@ integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeV
       {% else %}
       <div class="col-12 shadow-sm p-3 mx-auto mb-3 mt-3 ">
         {{ content }}
-        {% assign id=page.priref %}
-        {% include /structure/iiif.html %}
       </div>
       {% endif %}
     </div>

@@ -6,6 +6,7 @@ objectID: O.241-2008
 image: /images/large/O_241_2008.jpeg
 priref: 190318
 title: The warrior Omori Hikoshichi
+permalink: /explore/O-241-2008
 ---
 {% include /structure/netsuke-image.html %}
 {% include /structure/collection-record.html %}
