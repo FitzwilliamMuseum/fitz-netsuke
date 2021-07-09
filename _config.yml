@@ -21,7 +21,8 @@
 title: "Site title"
 email: "dejp3@cam.ac.uk"
 description: >- # this means to ignore newlines until "baseurl:"
-  "Website description"
+  "Selected netsuke from a Fitzwilliam exhibition that brought together 250
+  examples"
 baseurl: "/netsuke" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FitzMuseum_UK
