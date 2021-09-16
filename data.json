@@ -7,7 +7,7 @@
             "url": "{{site.url}}{{ entry.url | xml_escape }}",
             "slug": "{{ entry.permalink | xml_escape }}",
             "summary": "{{ entry.content | newline_to_br |  replace: '<br />', ' ' | strip_newlines | strip_html | strip | xml_escape | truncatewords: 50  }}",
-            "content": "{{ entry.content  | newline_to_br |  replace: '<br />', ' ' | strip_newlines | strip_html | strip | xml_escape }}",
+            "content": "content": {{ entry.content | strip_html | jsonify }},
             {% if entry.image %}
             "thumbnail": "{{site.url}}{{ entry.image | xml_escape }}",
             "image":  "{{site.url}}{{ entry.image | xml_escape }}"
