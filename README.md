@@ -1,4 +1,4 @@
-# Template Jekyll - Fitzwilliam
+# Netsuke - Fitzwilliam
 
 This small exhibition brought together 250 superb examples of netsuke - a form of miniature sculpture originating in 17th-century Japan. These often elaborately carved items were designed to function as ‘toggles’ for the silk cords upon which Japanese men strung their pipes, purses or writing implements. These webpage take you through the collection of the Fitzwilliam.
 
